@@ -1,0 +1,52 @@
+
+insert_OKEGOST-1111.sql Error: ОШИБКА:  отношение "usersw" не существует
+LINE 2: values((select max(id)+1 from usersw),'urod','urod@yandex.ru...
+                                      ^
+
+insert_OKEGOST-1111.sql Error: ОШИБКА:  отношение "usersw" не существует
+LINE 2: values((select max(id)+1 from usersw),'urod','urod@yandex.ru...
+                                      ^
+
+insert_OKEGOST-1111.sql Error: ОШИБКА:  отношение "usersw" не существует
+LINE 2: values((select max(id)+1 from usersw),'urod','urod@yandex.ru...
+                                      ^
+
+insert_OKEGOST-1111.sql Error: ОШИБКА:  отношение "usersw" не существует
+LINE 2: values((select max(id)+1 from usersw),'urod','urod@yandex.ru...
+                                      ^
+
+insert_OKEGOST-1111.sql Error: ОШИБКА:  отношение "usersw" не существует
+LINE 2: values((select max(id)+1 from usersw),'urod','urod@yandex.ru...
+                                      ^
+
+insert_OKEGOST-1111.sql Error: ОШИБКА:  отношение "usersw" не существует
+LINE 2: values((select max(id)+1 from usersw),'urod','urod@yandex.ru...
+                                      ^
+
+insert_OKEGOST-1111.sql Error: ОШИБКА:  отношение "usersw" не существует
+LINE 2: values((select max(id)+1 from usersw),'urod','urod@yandex.ru...
+                                      ^
+
+insert_OKEGOST-1111.sql Error: ОШИБКА:  отношение "usersw" не существует
+LINE 2: values((select max(id)+1 from usersw),'urod','urod@yandex.ru...
+                                      ^
+
+insert_OKEGOST-1111.sql Error: ОШИБКА:  отношение "usersw" не существует
+LINE 2: values((select max(id)+1 from usersw),'urod','urod@yandex.ru...
+                                      ^
+
+insert_OKEGOST-1111.sql Error: ОШИБКА:  отношение "usersw" не существует
+LINE 2: values((select max(id)+1 from usersw),'urod','urod@yandex.ru...
+                                      ^
+
+insert_OKEGOST-1111.sql Error: ОШИБКА:  отношение "usersw" не существует
+LINE 2: values((select max(id)+1 from usersw),'urod','urod@yandex.ru...
+                                      ^
+
+insert_OKEGOST-1111.sql Error: ОШИБКА:  отношение "usersw" не существует
+LINE 2: values((select max(id)+1 from usersw),'urod','urod@yandex.ru...
+                                      ^
+
+insert_OKEGOST-1111.sql Error: ОШИБКА:  отношение "usersw" не существует
+LINE 2: values((select max(id)+1 from usersw),'urod','urod@yandex.ru...
+                                      ^

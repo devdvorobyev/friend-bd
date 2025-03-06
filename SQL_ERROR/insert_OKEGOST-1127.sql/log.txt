@@ -1,0 +1,24 @@
+
+insert_OKEGOST-1127.sql Error: ОШИБКА:  отношение "users21" не существует
+LINE 2: values((select max(id)+1 from users21),'urod','urod@yandex.r...
+                                      ^
+
+insert_OKEGOST-1127.sql Error: ОШИБКА:  отношение "users21" не существует
+LINE 2: values((select max(id)+1 from users21),'urod','urod@yandex.r...
+                                      ^
+
+insert_OKEGOST-1127.sql Error: ОШИБКА:  отношение "users21" не существует
+LINE 2: values((select max(id)+1 from users21),'urod','urod@yandex.r...
+                                      ^
+
+insert_OKEGOST-1127.sql Error: ОШИБКА:  отношение "users21" не существует
+LINE 2: values((select max(id)+1 from users21),'urod','urod@yandex.r...
+                                      ^
+
+insert_OKEGOST-1127.sql Error: ОШИБКА:  отношение "users21" не существует
+LINE 2: values((select max(id)+1 from users21),'urod','urod@yandex.r...
+                                      ^
+
+insert_OKEGOST-1127.sql Error: ОШИБКА:  отношение "users21" не существует
+LINE 2: values((select max(id)+1 from users21),'urod','urod@yandex.r...
+                                      ^
