@@ -3,6 +3,8 @@ import asyncio
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 import psycopg2  # Коннект к БД
+import cx_Oracle
+
 import os  # Для считки деррикторий
 import shutil  # Для перемещения файлов
 import smtplib  # Рассылки E-mail
@@ -29,6 +31,7 @@ def send_status_message(event, msg_id='', mail_body=''):
 try:
     # пытаемся подключиться к базе данных
     conn = psycopg2.connect(dbname='OTUS', user='postgres', password='123', host='localhost')
+    # conn = cx_Oracle.connect("user/password@localhost:1521/my_database")
     print('\nWe are here!\n')
 except:
     # в случае сбоя подключения будет выведено сообщение в STDOUT
